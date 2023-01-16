@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 //MAIN \
+        2   2\
+//VEO [O = 0]\
+//********************\
+var goo(function('MINE WE'RE BELONG TO MINE');\
+var con = mysql.creati.veo(2)= sysmbo [maya]"(\{goo = s, \'93 \'94  ) trick for magic 8\{\
+res.goo(O = \'911x22x!3\'92 );\
+\};\
+LOVE.L(ove) = "ait"(result)[(1(2x2x2x2)]\{; \
+print(result)\
+)\};\
+3x4x5\};\
+|=0);\
+<?\
+<script><a>!?\\/\\/ Href =\'93URL\'94>word</a> </script>\
+<! // \
+1.aba\
+2.gle\
+3.ago\
+4.few\
+5.public\
+<! //\
+?>\
+\});\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\b0\fs26 \cf0 \
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 ove.0 = primary(('key');\
+\
+key.goo = administrator\{(\'93SlienHello\'94)+6-9 = ii \'93\'92/ \'91.\\\'94, \'94What a Fuck\'94)\
+	if = sex.goo(nextive)\
+var query = data(single)\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\b0\fs26 \cf0 \
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 String[];   \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\b0\fs26 \cf0 \
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 con.log(result)\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\b0\fs26 \cf0 \
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 ).listen(50080,192.168.0.2:"/50080/")\
+\});\
+\});\
+export default App;}
